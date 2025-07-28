@@ -20,30 +20,6 @@ API: Alpha Vantage Stock API
 
 📸 Preview
 
-🧑‍💻 How to Run Locally
-Clone this repository:
-
-bash
-Copy
-Edit
-git clone https://github.com/your-username/stock-price-tracker.git
-cd stock-price-tracker
-Replace "YOUR_API_KEY" in script.js with your Alpha Vantage API key:
-
-javascript
-Copy
-Edit
-const API_KEY = "YOUR_API_KEY";
-Open index.html in your browser.
-
-✅ You're all set!
-
-🔐 Get an API Key
-Visit https://www.alphavantage.co/support/#api-key
-
-Sign up and get your free API key
-
-Paste it into script.js
 
 📂 Project Structure
 graphql
